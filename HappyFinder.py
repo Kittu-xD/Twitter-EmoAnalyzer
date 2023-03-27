@@ -2,7 +2,7 @@
 
 """Foobar.py: Description of what foobar does."""
 
-__author__ = "Kartik Aggarwal(2002484) || Keshav(2002487)"
+__author__ = "Kartik Aggarwal(2002484)"
 __copyright__ = "Copyright 2021, Planet Earth"
 __version__ = "1.0"
 """
